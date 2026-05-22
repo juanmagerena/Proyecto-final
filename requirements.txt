@@ -3,3 +3,4 @@ joblib
 pyngrok
 pandas
 numpy
+scikit-learn
